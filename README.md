@@ -1,4 +1,5 @@
 # Chat-box
+Nguyễn Đỗ Quang Đại - MSSV: 22028278.
 
 Ảnh giao diện + code:
 ![image](https://github.com/NguyenDoQuangDai/Chat-box/assets/125963029/90e0d129-8805-4c85-9ce1-3777f714ac9d)
