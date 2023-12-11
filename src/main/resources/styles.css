@@ -1,0 +1,6 @@
+#messageBox {
+    -fx-border-color: #0084ff;
+    -fx-border-width: 1;
+    -fx-border-radius: 5;
+    -fx-background-color: #0084ff;
+}
